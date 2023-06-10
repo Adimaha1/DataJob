@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataJob": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

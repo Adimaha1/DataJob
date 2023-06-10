@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataJob", "DataJob\DataJob.csproj", "{A42196A5-504C-450D-8907-7B088869471B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42196A5-504C-450D-8907-7B088869471B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42196A5-504C-450D-8907-7B088869471B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42196A5-504C-450D-8907-7B088869471B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42196A5-504C-450D-8907-7B088869471B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B1B503-98CA-4417-835A-8703DD3BECD0}
+	EndGlobalSection
+EndGlobal
