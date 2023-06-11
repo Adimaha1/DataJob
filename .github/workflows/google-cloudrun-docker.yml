@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_ID: 'durable-path-385321'
-  GAR_LOCATION: 'us'
+  GAR_LOCATION: 'us-east4'
   SERVICE: 'datajobtest'
   REGION: 'us-east4'
 
