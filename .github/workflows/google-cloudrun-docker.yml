@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_ID: 'durable-path-385321'
-  GAR_LOCATION: 'gcr.io'
+  GAR_LOCATION: 'us'
   SERVICE: 'datajobtest'
   REGION: 'us-east4'
 
@@ -46,7 +46,7 @@ jobs:
         with:
           username: '_json_key'
           password: ${{ secrets.GCP_CREDENTIALS }}
-          registry: '${{ env.GAR_LOCATION }}#-docker.pkg.dev'
+          registry: '${{ env.GAR_LOCATION }}-docker.pkg.dev'
 
       - name: Build and Push Container
         run: |-
