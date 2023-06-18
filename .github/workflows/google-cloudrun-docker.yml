@@ -65,7 +65,7 @@ jobs:
          # export_default_credentials: true
 
       - name: Setup Terraform
-        uses: 'hashicorp/setup-terraform'
+        uses: hashicorp/setup-terraform@v2.0.3
 
       - name: Initialize Terraform
         run: terraform init
