@@ -10,7 +10,7 @@ resource "google_cloud_run_v2_job" "default" {
   template {
     template {
       containers {
-        image = "us-east4-docker.pkg.dev/durable-path-385321/datajobtest/datajobtest"
+        image = "us-east4-docker.pkg.dev/durable-path-385321/datajobtest"
         
       }
     }
