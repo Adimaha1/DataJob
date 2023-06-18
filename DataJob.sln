@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataJob", "DataJob\DataJob.csproj", "{A42196A5-504C-450D-8907-7B088869471B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataJob", "DataJob\DataJob.csproj", "{A42196A5-504C-450D-8907-7B088869471B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionTest", "EncryptionTest\EncryptionTest.csproj", "{42DF667B-D769-4B59-B3DE-D3971C4B4A1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A42196A5-504C-450D-8907-7B088869471B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A42196A5-504C-450D-8907-7B088869471B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A42196A5-504C-450D-8907-7B088869471B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DF667B-D769-4B59-B3DE-D3971C4B4A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DF667B-D769-4B59-B3DE-D3971C4B4A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DF667B-D769-4B59-B3DE-D3971C4B4A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DF667B-D769-4B59-B3DE-D3971C4B4A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
