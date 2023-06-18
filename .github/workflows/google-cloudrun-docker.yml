@@ -62,6 +62,7 @@ jobs:
           version: '356.0.0'
           project_id: 'durable-path-385321'
          # service_account_key: ${{ secrets.GCP_CREDENTIALS }}
+         
          # export_default_credentials: true
 
       - name: Setup Terraform
